@@ -100,6 +100,4 @@ public class Main {
         return maxElements;
     }
 
-
-
 }
