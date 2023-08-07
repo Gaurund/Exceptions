@@ -7,8 +7,6 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class HomeWork03 {
-//    static Scanner scanner = new Scanner(System.in);
-
     public static void main(String[] args) {
         int result = 0;
         do {
